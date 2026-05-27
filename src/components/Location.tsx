@@ -16,7 +16,7 @@ export default function Location() {
           <span className="accent-bar" />
           <h2 className="section-title text-[#0D1220]">Onde estamos</h2>
           <p className="text-[#5A6478] mt-5 text-lg">
-            Estamos prontos para receber seu veículo no coração de Pato Branco.
+            Estamos prontos para receber seu veículo no coração de Chopinzinho.
           </p>
         </motion.div>
 

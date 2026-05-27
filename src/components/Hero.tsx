@@ -53,7 +53,7 @@ export default function Hero() {
         >
           <Award className="w-4 h-4 text-accent" />
           <span className="text-xs font-head font-semibold uppercase tracking-[0.2em]">
-            Melhor Oficina de Pato Branco
+            Melhor Oficina de Chopinzinho
           </span>
         </motion.div>
 
@@ -71,7 +71,7 @@ export default function Hero() {
           variants={item}
           className="mt-7 text-lg md:text-xl text-white/85 max-w-2xl mx-auto leading-relaxed drop-shadow-[0_2px_10px_rgba(0,0,0,0.5)]"
         >
-          Oficina completa em Pato Branco com mais de 1.400m², 11 elevadores,
+          Oficina completa em Chopinzinho com mais de 1.400m², 11 elevadores,
           17 especialistas e equipamentos de última geração.
         </motion.p>
 
@@ -92,7 +92,7 @@ export default function Hero() {
           className="mt-16 hidden md:flex items-center justify-center gap-3 text-white/60 text-sm"
         >
           <div className="h-px w-12 bg-white/40" />
-          <span className="uppercase tracking-[0.3em] text-xs">Desde 1990 · Pato Branco – PR</span>
+          <span className="uppercase tracking-[0.3em] text-xs">Desde 1990 · Chopinzinho – PR</span>
         </motion.div>
       </motion.div>
 

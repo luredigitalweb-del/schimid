@@ -30,7 +30,7 @@ export default function About() {
               a cultura de cuidado e compromisso com cada cliente.
             </p>
             <p>
-              Desde 2009 com estrutura própria em Pato Branco, ocupamos mais
+              Desde 2009 com estrutura própria em Chopinzinho, ocupamos mais
               de 1.400m² de área dedicada à manutenção automotiva, com
               organização de ponta e processos definidos da entrada à saída
               do veículo.
@@ -55,7 +55,7 @@ export default function About() {
           <div className="relative aspect-[4/5] sm:aspect-[5/4] lg:aspect-[4/5] rounded-xl overflow-hidden border border-black/10 shadow-[0_30px_80px_-20px_rgba(13,18,32,0.35)]">
             <img
               src="/sobre.jpg"
-              alt="Estrutura da Mecânica Schimid em Pato Branco"
+              alt="Estrutura da Mecânica Schimid em Chopinzinho"
               className="absolute inset-0 w-full h-full object-cover"
               loading="lazy"
             />

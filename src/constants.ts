@@ -4,10 +4,10 @@ export const WHATSAPP_URL =
 export const WHATSAPP_NUMBER = '46 99935-0048';
 
 export const ADDRESS =
-  'Rua 14 de Dezembro, 4930 – Centro, Pato Branco – PR, CEP 85560-016';
+  'Rua 14 de Dezembro, 4930 – Centro, Chopinzinho – PR, CEP 85560-000';
 
 export const MAPS_URL =
-  'https://www.google.com/maps/search/?api=1&query=Rua+14+de+Dezembro+4930+Pato+Branco+PR';
+  'https://www.google.com/maps/search/?api=1&query=Rua+14+de+Dezembro+4930+Chopinzinho+PR';
 
 export const MAPS_EMBED =
-  'https://www.google.com/maps?q=Rua+14+de+Dezembro+4930+Pato+Branco+PR&output=embed';
+  'https://www.google.com/maps?q=Rua+14+de+Dezembro+4930+Chopinzinho+PR&output=embed';
